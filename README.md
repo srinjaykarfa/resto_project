@@ -2,6 +2,10 @@
 
 A simple Vue 3 + Vue Router 4 + Axios front‑end to manage restaurants. You can sign up/login (stored in localStorage), list restaurants, add a new one, and update an existing one via a REST API (e.g., json‑server).
 
+## Live demo
+
+https://resto-project-liard.vercel.app/
+
 ## Tech stack
 
 - Vue 3 (Options API)
